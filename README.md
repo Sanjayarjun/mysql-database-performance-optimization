@@ -1,2 +1,17 @@
-# mysql-database-performance-optimization
-This project focuses on identifying and optimizing slow-running SQL queries using MySQL and the Sakila sample database.  A slow query was analyzed using EXPLAIN, rewritten to remove non-SARGable conditions, and optimized using indexing.  Performance improvements were validated using execution plans before and after optimization.
+# Database Performance Optimization using MySQL
+
+## 📌 Project Overview
+This project demonstrates how to identify and optimize slow-running SQL queries in MySQL using real execution plans and indexing techniques.  
+The **Sakila sample database** was used to simulate a real-world scenario involving multiple table joins and date-based filtering.
+
+---
+
+## 🛠️ Tools & Technologies
+- MySQL
+- MySQL Workbench
+- Sakila Sample Database
+- Git & GitHub
+
+---
+
+## 📂 Project Structure
